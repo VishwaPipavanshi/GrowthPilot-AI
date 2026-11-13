@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="GrowthPilot AI logo">
+  <defs>
+    <linearGradient id="gpIcon" x1="10" y1="8" x2="52" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="48%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="17" fill="#120F1E"/>
+  <path d="M18 40.5L28 30L35 36L46 21.5" fill="none" stroke="url(#gpIcon)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40.5 21.5H46V27" fill="none" stroke="url(#gpIcon)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16 18.5L18.5 12.7L21 18.5L26.8 21L21 23.5L18.5 29.3L16 23.5L10.2 21L16 18.5Z" fill="url(#gpIcon)"/>
+</svg>
